@@ -1,5 +1,6 @@
- - [Name:] Serguei Golberg.
- - [Residence:] I live in Orlando, FL.
- - [Favorite food:] I like sea food.
- - [Hobbi] I like reading historical books and watch history movies.
- - dummy line
+ - [X] Serguei Golberg.
+ - [X] I live in Orlando, FL.
+ - [X] I like sea food.
+ - [X] I like reading historical books and watch history movies.
+ - [X] dummy line
+ - [X] another dummy line, 12/09/2015
