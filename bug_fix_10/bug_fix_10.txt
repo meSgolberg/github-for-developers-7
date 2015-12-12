@@ -1,0 +1,2 @@
+bug_fix_10.txt line 1
+bug_fix_10.txt line 2
