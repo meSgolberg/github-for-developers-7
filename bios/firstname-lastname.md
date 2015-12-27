@@ -5,4 +5,3 @@
  - [X] dummy line
  - [X] another dummy line, 12/09/2015
  - [X] another dummy line, 12/09/2015, but only to master-4 branch
- - [X] added the line on Mac.
