@@ -1,3 +1,2 @@
 - [X] Serg started the file and added line-1
 - [X] Serg started the file and added line-2
-- [X] Serg  added line-3 on branche-clash-3
